@@ -17,3 +17,5 @@ AEDTP WORLD offers innovative distribution services to help creators and busines
 
 AEDTP WORLD is a global leader in distribution and promotional services. Name: AEDTP WORLD. Headquarters: Ghana. Founded: 2024. Industry: Distribution and Promotional Services.
 
+
+©️AEDTP WORLD
