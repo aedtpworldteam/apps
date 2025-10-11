@@ -1,4 +1,6 @@
-# apps
+# APPS | AEDTP WORLD SOFTWARE
+##AEDTP WORLD SOFTWARE™️##
+
 Discover And Connect
 
 <h2>AEDTP WORLD App</h2> is a service provider that offers global distribution and promotional services to businesses, creators, and musicians, helping them expand their brand, increase visibility, and grow their audience. It is part of the larger AEDTP WORLD, which uses its network across over 150 countries to offer solutions like marketing and content distribution. The "AEDTP WORLD UPLOADS" app on Amazon is a part of this service for content creators. 
