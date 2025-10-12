@@ -1,64 +1,56 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Blue Melody — AEDTP WORLD</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-</head>
-<body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center justify-center p-6">
-  <div class="max-w-lg w-full text-center">
-    <img src="icon.png" alt="Blue Melody Icon" class="w-20 h-20 mx-auto mb-4 rounded-lg shadow">
-    <h1 class="text-3xl font-bold">Blue Melody</h1>
-    <p class="mt-2 text-gray-400">A lightweight music player and composition helper by AEDTP WORLD.</p>
-    
-    <img src="screenshot.png" alt="Screenshot" class="mt-6 rounded-lg shadow-lg">
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <!-- PAD File Version -->
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
 
+  <!-- Company Info -->
+  <Company_Info>
+    <Company_Name>AEDTP WORLD</Company_Name>
+    <Address>Volta Region, Ghana</Address>
+    <Country>Ghana</Country>
+    <Email>aedtpworld@gmail.com</Email>
+    <Website_URL>https://aedtpworld.codedesign.app</Website_URL>
+    <Website_Info_URL>https://aedtpworld.neocities.org/</Website_Info_URL>
+  </Company_Info>
 
+   <!-- Program Tags -->
+  <Program_Tags>
+    music player app, offline music player, Android music app, WebView music app, localaudio player, MP3 player,
+    universal music player, audio playback, offline audio app, playlist manager, shuffle and repeat, loop all tracks,
+    replay song, custom themes, font customization, background customization, lightweight music app, responsive music player,
+    cache-first offline app, HTML5 audio player, file storage music player, personal music app, free music player, Blue Melody app,
+    AEDTP WORLD, Emmanuel Deliver Amable
+  </Program_Tags>
+  
+  
+<Program_Info>
+  <Program_Name>Blue Melody</Program_Name>
+  <Program_Version>1.1.1</Program_Version>
+  <Program_Release_Date>2025-09-28</Program_Release_Date>
+  <Program_Type>Application</Program_Type>
+  <Program_Cost_Dollars>0</Program_Cost_Dollars>
+  <Program_Cost_Other>Freeware</Program_Cost_Other>
+  <Program_Description>
+    Blue Melody is a lightweight offline music player for Windows.
+  </Program_Description>
+</Program_Info>
 
-
-
-     <div class="mt-8 grid gap-3">
-
-    <h1 class="text-3xl font-bold">Blue Melody (LATEST)</h1>
-
-        </div>
-
-
-        <div class="mt-8 grid gap-3">
-
-    <h1 class="text-3xl font-bold">Blue Melody (VERSION 1.1.1)</h1>
-      <a href="https://github.com/aedtpworld/apps/releases/download/bluemelody/Blue.Melody.Setup.1.1.1.exe" class="block px-4 py-2 bg-indigo-600 rounded shadow hover:bg-indigo-700">Download for Windows (.exe)</a>
-      <a href="https://github.com/aedtpworld/apps/releases/download/bluemelody/Blue.Melody.Setup.1.1.1.zip" class="block px-4 py-2 bg-gray-700 rounded hover:bg-gray-600">Download (ZIP)</a>
-      
-    </div>
-
-
-    
-
-  <div class="mt-8 grid gap-3">
-
-    <h1 class="text-3xl font-bold">Blue Melody (VERSION 1.1)</h1>
-    
-      <a href="https://github.com/aedtpworld/apps/releases/download/aedtpworld/Blue.Melody.Setup.1.1.exe" class="block px-4 py-2 bg-indigo-600 rounded shadow hover:bg-indigo-700">Download for Windows (.exe)</a>
-      <a href="https://github.com/aedtpworld/apps/releases/download/aedtpworld/Blue.Melody.Setup.1.1.zip" class="block px-4 py-2 bg-gray-700 rounded hover:bg-gray-600">Download (ZIP)</a>
-      
-    </div>
-
-
-
-    
-
-<div class="mt-8 grid gap-3"></div>
- <h1 class="text-3xl font-bold">PREVIOUSLY</h1>
-    
-    <div class="mt-8 grid gap-3">
-      <a href="Blue%20Melody%20Setup.exe" class="block px-4 py-2 bg-indigo-600 rounded shadow hover:bg-indigo-700">Download for Windows (.exe)</a>
-      <a href="Blue%20Melody%20Setup.zip" class="block px-4 py-2 bg-gray-700 rounded hover:bg-gray-600">Download (ZIP)</a>
-      <a href="bluemelodypad.xml" class="block px-4 py-2 bg-green-600 rounded shadow hover:bg-green-700">Download Pad XML</a>
-    </div>
-
-    <p class="mt-6 text-sm text-gray-500">Back to <a href="../" class="underline">AEDTP WORLD Apps</a></p>
-  </div>
-</body>
-</html>
+  <!-- Program Links -->
+  <Program_Links>
+    <Program_Icon_File_URL>
+      https://aedtpworldteam.github.io/apps/bluemelody/icon.png
+    </Program_Icon_File_URL>
+    <Program_Screenshot_URL>
+      https://aedtpworldteam.github.io/apps/bluemelody/screenshot.png
+    </Program_Screenshot_URL>
+    <Program_Download_URL>
+    https://github.com/aedtpworldteam/apps/releases/download/bluemelody/Blue.Melody.Setup.1.1.1.exe
+    https://github.com/aedtpworldteam/apps/releases/download/bluemelody/Blue.Melody.Setup.1.1.1.zip
+  </Program_Download_URL>
+  <Program_Info_URL>
+    https://aedtpworldteam.github.io/apps/bluemelody/
+    </Program_Info_URL>
+  </Program_Links>
+</XML_DIZ_INFO>
